@@ -12,7 +12,7 @@ Users can view detailed information about each player on a separate screen. With
 
 | Mobile iOS and Android versions | WEB version |
 | :---: | :---: |
-| ![mobile](https://imgur.com/HXnBPiP.gif) | ![web](https://imgur.com/ZCqMo4e.gif) |
+| ![mobile](https://i.imgur.com/HXnBPiP.gif) | ![web](https://i.imgur.com/ZCqMo4e.gif) |
 
 ## Project Structure
 - `lib/data`: Contains data-related classes including models, repositories, and providers.
